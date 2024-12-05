@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: Wiki 编写规范
       link: /wiki-standard
+    - theme: alt
+      text: Mod 下载（Minecraft Java 1.20.4）
+      link: https://github.com/dddddgz05/gezhecraftmod
 
 features:
   - title: 🟦20??-??-?? ??:??
