@@ -22,7 +22,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/dddddgz05/gezhecraftmod' }
+      { icon: 'github', link: 'https://github.com/dddddgz/gezhecraftmod' }
     ]
   }
 })
